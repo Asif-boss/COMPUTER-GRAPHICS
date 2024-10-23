@@ -45,6 +45,7 @@ void full_black_box(int x, int y, int w, int h){
 
 void myDisplay(void){
     glClear (GL_COLOR_BUFFER_BIT);
+    glColor3f (0.0, 0.0, 0.0);
     glBegin(GL_POLYGON);
 
     glVertex2i(90, 50);
