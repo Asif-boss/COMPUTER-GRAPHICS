@@ -3,12 +3,12 @@ OpenGL with C++
 
 Setup:
 
-https://github.com/zamansheikh/OpenGLWithVsCodeWin-Linux
+https://github.com/zamansheikh/OpenGLWithVsCodeWin-Linux<br/>
 or, 
 ```
 sudo apt install freeglut3-dev mesa-common-dev libxi-dev
 ```
-
+This installs FreeGLUT, OpenGL development libraries, and XInput2 headers.<br/><br/>
 https://www.youtube.com/watch?v=bi-NvsFKcZg (Windows)
 
 Linux:
