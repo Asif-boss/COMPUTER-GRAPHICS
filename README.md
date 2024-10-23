@@ -20,7 +20,7 @@ sudo pacman -S freeglut-devel sudo pacman -S freeglut sudo pacman -S glu
 This installs FreeGLUT, OpenGL development libraries, and XInput2 headers.<br/><br/>
 https://www.youtube.com/watch?v=bi-NvsFKcZg (Windows)
 <br/><br/>
-##Compile and run 
+## Compile and run 
 Linux:
 ```
 g++ test.cpp -o test -lglut -lGLU -lGL && ./test
